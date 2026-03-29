@@ -205,7 +205,7 @@ Conclui-se, portanto, que a utilizacao de tecnicas de aprendizado de maquina con
 
 - `analise_sinistros.py`: script principal de leitura, tratamento, treinamento e exportacao de artefatos
 - `relatorio_analise_sinistros.md`: relatorio academico do estudo
-- `CSV/`: base historica DATATRAN
+- `CSV/`: base historica da Polícia Rodoviaria Federal
 - `output/`: arquivos gerados pelo modelo
 
 ## 9. Arquivos gerados
@@ -221,12 +221,7 @@ O script `analise_sinistros.py` gera automaticamente os seguintes artefatos na p
 - `importancia_atributos.svg`
 - `arvore_preview.svg`
 
-## 10. Referencias
+## Os arquivos *.csv foram baixados da base de sinistros de trânsito da Polícia Rodoviaria Federal
 
-BREIMAN, Leo; FRIEDMAN, Jerome; OLSHEN, Richard; STONE, Charles. *Classification and Regression Trees*. New York: Routledge, 1984.
+htps://dados.gov.br/dados/conjuntos-dados/sinistros-de-transito-agrupados-por-ocorrencia 
 
-HAN, Jiawei; KAMBER, Micheline; PEI, Jian. *Data Mining: Concepts and Techniques*. 3. ed. Waltham: Morgan Kaufmann, 2011.
-
-PEDREGOSA, Fabian et al. Scikit-learn: Machine Learning in Python. *Journal of Machine Learning Research*, v. 12, p. 2825-2830, 2011.
-
-POLICIA RODOVIARIA FEDERAL. *DATATRAN: base de dados de sinistros de transito*. Brasilia: PRF, s.d.
